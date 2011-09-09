@@ -16,7 +16,7 @@ group :assets do
   gem 'coffee-rails', "~> 3.1.0"
   gem 'uglifier'
 end
-
+gem "devise"
 gem 'jquery-rails'
 
 # Use unicorn as the web server
